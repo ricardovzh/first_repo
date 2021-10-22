@@ -1,2 +1,2 @@
-print("Hello, mom!")
+print("Hello, everyone!")
 
